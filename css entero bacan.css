@@ -1,0 +1,94 @@
+#header-BDental{
+    background-color: blue;
+    text-align:center;
+    padding: 0.5ex;
+}
+
+.card{
+    margin: 2ex
+}
+
+.card-title{
+    font-size: 8ex;
+    font-family: Helvetica;
+}
+
+.card-title-noticia{
+    font-size: 5ex;
+    font-family: Helvetica;
+}
+
+.card-text-noticia{
+    font-size: 2.1ex;
+    font-family: Helvetica;
+}
+
+.card-text {
+    font-size: 3ex;
+    font-weight: 400;
+    margin-top: 3ex;
+    font-family: Helvetica;
+
+}
+
+#container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(61, 119, 227);
+    gap: 0.5ex;
+    width:60%;
+	text-align:right;
+	float:left;
+    border-radius: 1ex;
+    font-family: Helvetica;
+    padding-bottom: 2ex;
+}
+
+#container-boton-registro {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(61, 119, 227);
+    gap: 0.5ex;
+    width:60%;
+	text-align:center;
+	float:left;
+    border-radius: 1ex;
+    font-family: Helvetica;
+    padding-bottom: 2ex;
+}
+
+.principal #container form label{
+    padding: 10px;
+}
+
+#button {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.principal{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3ex;
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: rgb(95, 162, 201);
+}
+
+#Texto-grande{
+    font-size: 7ex;
+}
+
+a {
+    margin-top: 2ex;
+}
+
